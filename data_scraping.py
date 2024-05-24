@@ -1,3 +1,13 @@
+##
+# @file
+# File documentation
+#
+
+##
+# @package MyModule
+# Module documentation
+#
+
 import sys
 import requests
 from PyQt5.QtWidgets import (
@@ -6,7 +16,6 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtGui import QFont
 from PyQt5.QtCore import Qt, QThread, pyqtSignal
 from bs4 import BeautifulSoup
-
 
 def scrape(url):
     """

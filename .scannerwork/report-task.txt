@@ -1,0 +1,6 @@
+projectKey=Proje-Yonetimi
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=Proje-Yonetimi
+ceTaskId=dc8fdb2e-3e61-47c3-b2f6-4fc595500b8b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=dc8fdb2e-3e61-47c3-b2f6-4fc595500b8b
